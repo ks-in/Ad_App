@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211464661131",
+    "project_id": "adamskayaapp",
+    "storage_bucket": "adamskayaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211464661131:android:ede1e30e7ed6b3d4fdcc8e",
+        "android_client_info": {
+          "package_name": "com.example.adamskaya_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211464661131-bh95jvvnd946amb8cgd3h9tlsolrgldv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAW_zpUTnf8vxJpMBxQxvPHSvtyCpcbTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211464661131-bh95jvvnd946amb8cgd3h9tlsolrgldv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
